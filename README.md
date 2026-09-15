@@ -1,4 +1,4 @@
-# 🎮 TERMO CLI
+# 🎮 TERMO LAS VEGAS
 
 Jogo estilo Termo para terminal, com TypeScript, SQLite, Chalk, login e ranking persistente.
 
